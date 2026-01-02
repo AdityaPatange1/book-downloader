@@ -1,0 +1,8 @@
+{
+  "name": "libgen-downloader",
+  "version": "1.0.0",
+  "description": "Download books from Library Genesis",
+  "scripts": {
+    "download-book": "node download-book.js"
+  }
+}
